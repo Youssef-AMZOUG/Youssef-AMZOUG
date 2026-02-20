@@ -1,65 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e004d,70:6e5494,100:a157ff&height=280&section=header&text=YOUSSEF%20AMZOUG&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bonjour (Hello) 👋🏻, I'm Youssef Amzoug! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Doctoral Researcher & AI Architect at <b>UM5-FSR</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-  <a href="https://www.linkedin.com/in/youssef-amzoug-1a0872221/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/youssef-amzoug">
-    <img src="https://img.shields.io/badge/Verified%20Skills-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Youssef-AMZOUG&color=6e5494&style=for-the-badge&label=DIGITAL+FOOTPRINT" />
-</div>
+[![Linkedin: youssef](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-amzoug-1a0872221/)
+[![Credly: youssef](https://img.shields.io/badge/Verified_Skills-FF6B6B?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/youssef-amzoug)
+![GitHub followers](https://img.shields.io/github/followers/Youssef-AMZOUG?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=Youssef-AMZOUG&color=blueviolet&style=flat-square&label=Digital+Footprint)
 
----
+### 📫 Let's Connect & Innovate
 
-## 🔬 Doctoral Researcher & AI Architect
-> **Bridging the gap between Deep Learning and Symbolic Logic for Explainable AI (XAI)**
+Pick a slot if you'd like to chat about **Federated Learning**, **Explainable AI (XAI)**, or the future of **Edge Intelligence**.
 
-* **PhD Research:** Designing **Hybrid Architectures** and **Federated Learning** environments at **UM5-FSR**.
-* **Edge Intelligence:** Optimizing complex models for real-time performance and strict data sovereignty.
-* **International Speaker:** Presented at **InTERTech 2025** on "Beyond the Black Box" AI.
-* **Global Innovator:** **NASA Space Apps Challenge** Galactic Problem Solver.
+<a href="mailto:youssef.amzoug@um5r.ac.ma" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
----
+👇 Run this in your terminal to see my digital business card.
 
-## 🛠️ Specialized Arsenal
-
-### 🤖 AI & Research Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,ai,scikitlearn" />
-</p>
-
-### 🌐 Systems & Security
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash,mysql,git,c" />
-</p>
-
----
-
-## 📊 Performance & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-AMZOUG&show_icons=true&theme=radical&rank_icon=github" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-AMZOUG&layout=compact&theme=radical" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-AMZOUG&theme=radical" width="100%" />
-</p>
-
----
-
-## ⏱️ Weekly Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef-AMZOUG&theme=radical&layout=compact" alt="WakaTime Stats" />
-</p>
-
----
-
-## 🐍 Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Youssef-AMZOUG/Youssef-AMZOUG/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  <i>"Building intelligence that doesn't just work, but explains itself."</i>
-</p>
+```bash
+npx youssef-amzoug
