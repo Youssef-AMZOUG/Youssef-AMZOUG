@@ -18,3 +18,37 @@ Pick a slot if you'd like to chat about **Federated Learning**, **Explainable AI
 
 ```bash
 npx youssef-amzoug
+const youssef = {
+  name: "Youssef Amzoug",
+  pronouns: ["he", "him"],
+  research_focus: [
+    "Hybrid (Neuro-Symbolic) Architectures",
+    "Federated Learning",
+    "Explainable AI (XAI)"
+  ],
+  awards: {
+    nasa: "Space Apps Challenge: Galactic Problem Solver",
+    speaking: "International Speaker @ InTERTech 2025"
+  },
+
+  technologies: {
+    ai_research: {
+      frameworks: ["TensorFlow", "PyTorch", "Scikit-learn"],
+      specialties: ["GNNs", "Multimodal Fusion", "Edge Intelligence"]
+    },
+
+    systems_and_security: {
+      networking: ["Cisco CCNA (Switching, Routing, Wireless)", "CyberOps"],
+      cybersecurity: ["Ethical Hacking", "Network Security"],
+      tools: ["Docker", "Linux (NDG)", "Git", "Nginx"]
+    },
+
+    development: {
+      languages: ["Python", "Java", "JavaScript", "C", "PHP", "SQL"],
+      creative: ["Blender 3D Animation", "Figma", "Digital Pedagogy"]
+    }
+  },
+
+  currentFocus: "Architecting Hybrid AI for Decentralized Data Sovereignty",
+  funFact: "NASA recognized me for solving galactic problems; now I'm solving the Black Box AI problem."
+};
